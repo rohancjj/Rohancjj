@@ -1,62 +1,79 @@
-<h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">Full-Stack Developer | WebRTC | MERN | Next.js | Python | Docker</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=32&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi+👋,+I'm+Rohan;Full-Stack+Developer;WebRTC+|+MERN+|+Next.js+|+Docker;Building+Real-World+Applications" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohancjj&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rohancjj&style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I have completed my **Computer Science Engineering**  
-💻 I’m a passionate **Full-Stack Developer** who loves building real-world applications  
-🌐 I work with both **Frontend & Backend technologies**  
-✨ I enjoy solving real problems and designing better user experiences  
-📈 Currently exploring **scalable systems & real-time communication (WebRTC)**
+🎓 **Computer Science Engineering Graduate**  
+💻 Passionate about **building powerful, real-world applications**  
+🌐 Skilled in **Frontend + Backend Development**  
+⚡ Love working on **WebRTC + Scalable Systems**  
+🧠 Always learning & improving  
+
+> I don’t just write code — I build experiences.
 
 ---
 
-## 🧠 Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Other Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=python,docker,webrtc,git,github" />
-</p>
-
----
-
-## ✅ What I’m Good At
-
-- 🔹 MERN & Next.js full-stack applications
-- 🔹 Backend API design & secure authentication
-- 🔹 Real-time communication using WebRTC
-- 🔹 Database design (MongoDB & MySQL)
-- 🔹 Responsive & modern UI development
-- 🔹 Containerization and deployment with Docker
-
----
-
-## 📊 GitHub Stats
+## ⚙️ My Tech Universe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohancjj&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohancjj&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,nodejs,express,mongodb,mysql,python,docker,webrtc,git,github&perline=8" />
 </p>
 
 ---
 
+## 🔥 What I Specialize In
+
+✅ MERN & Next.js Applications  
+✅ Real-Time Systems with WebRTC  
+✅ Scalable Backend APIs  
+✅ Secure Authentication Systems  
+✅ Responsive + Premium UI Design  
+✅ Dockerized Deployment  
+
+---
+
+## 🏆 GitHub Achievements
+
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohancjj&theme=tokyonight&row=1&no-frame=true&margin-w=10" />
 </p>
+
+---
+
+## 📊 My GitHub Performance
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohancjj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohancjj&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohancjj&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/Rohancjj/Rohancjj/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🤝 Let’s Connect
+
+📧 Email: *Add your email*  
+💼 LinkedIn: *Add your LinkedIn link*  
+🌐 Portfolio: *Add your portfolio link*  
+
+---
+
+<h3 align="center">⭐ Building. Learning. Evolving. ⭐</h3>
