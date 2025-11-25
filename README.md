@@ -57,14 +57,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-- 🌐 Portfolio: (Add your link)
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
-
----
-
 <p align="center">
   ⭐ Feel free to explore my repositories and connect with me!
 </p>
