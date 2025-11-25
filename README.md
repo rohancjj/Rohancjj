@@ -72,5 +72,5 @@
 
 ---
 
-<h2 align="center" style="margin-top:30px;">✨ Premium • Clean • Impactful ✨</h2>
+<h2 align="center" style="margin-top:30px;">✨ Premium • Clean • Impactfull ✨</h2>
 <h3 align="center">Building • Learning • Evolving</h3>
