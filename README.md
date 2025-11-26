@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://portfolio-rohancjj.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
