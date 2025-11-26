@@ -20,7 +20,7 @@
 ⚡ Passionate about **WebRTC & real-time systems**  
 🧠 Focused on continuous learning & growth  
 
-> *I don’t just code — I craft digital experiences.*
+> *I don’t just code — I craft digital experiences*
 
 </div>
 
