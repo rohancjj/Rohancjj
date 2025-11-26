@@ -66,10 +66,10 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="rohancjj2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/rohanjangir0/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://portfolio-rohancjj.vercel.app/">
