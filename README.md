@@ -1,34 +1,38 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=32&center=true&vCenter=true&width=650&height=70&duration=3000&lines=Hi+👋,+I'm+Rohan;Full-Stack+Developer;WebRTC+|+MERN+|+Next.js+|+Docker;Building+Premium+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=34&center=true&vCenter=true&width=700&height=80&duration=3000&lines=Hi+👋,+I'm+Rohan;Full-Stack+Developer;WebRTC+•+MERN+•+Next.js+•+Docker;I+Build+Premium+Web+Experiences" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohancjj&style=for-the-badge&color=0ea5e9" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Real%20World%20Apps-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Premium%20Web%20Apps-7c3aed?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-22c55e?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.04); padding: 20px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
+<div style="backdrop-filter: blur(18px); background: linear-gradient(135deg, rgba(15,23,42,0.4), rgba(255,255,255,0.03)); padding: 25px; border-radius: 22px; border: 1px solid rgba(255,255,255,0.08);">
 
 🎓 **Computer Science Engineering Graduate**  
-💻 Love building **real-world, scalable applications**  
-🌐 Strong in **Frontend + Backend Development**  
-⚡ Passionate about **WebRTC & real-time systems**  
-🧠 Focused on continuous learning & growth  
+💻 Building **high-performance, real-world applications**  
+🌍 Specialized in **Modern Web & Real-Time Systems**  
+🚀 Obsessed with **UI quality, speed & scalability**  
+🧠 Growth-driven with a mindset for **clean architecture**
 
-> *I don’t just code — I craft digital experiences*
+> *“I don’t just write code — I design digital experiences that feel premium.”*
 
 </div>
 
 ---
 
-## ⚙️ My Tech Universe 
+## 🧬 Tech Ecosystem
 
-<div align="center" style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.04); padding: 25px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.1);">
+<div align="center" style="backdrop-filter: blur(16px); background: linear-gradient(135deg, rgba(14,165,233,0.05), rgba(124,58,237,0.05)); padding: 30px; border-radius: 24px; border: 1px solid rgba(255,255,255,0.08);">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,nodejs,express,mongodb,mysql,python,docker,webrtc,git,github&perline=7" />
 
@@ -36,41 +40,49 @@
 
 ---
 
-## 🔥 What I Specialize In
+## 🚀 What I Deliver
 
-<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.04); padding: 20px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
+<div style="backdrop-filter: blur(16px); background: linear-gradient(135deg, rgba(34,197,94,0.05), rgba(255,255,255,0.02)); padding: 25px; border-radius: 18px; border: 1px solid rgba(255,255,255,0.08);">
 
-✅ MERN & Next.js Applications  
-✅ Secure & scalable backend APIs  
-✅ Real-time features with WebRTC  
-✅ Clean, modern & responsive UI  
-✅ Docker-based deployment  
-✅ Database design (MongoDB & MySQL)  
+✅ **High-end MERN & Next.js applications**  
+✅ **Secure, scalable backend systems**  
+✅ **WebRTC-based real-time functionality**  
+✅ **Futuristic, responsive UI/UX**  
+✅ **Dockerized deployments & CI-ready apps**  
+✅ **MongoDB & MySQL optimized architecture**
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Branding
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohancjj&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohancjj&theme=tokyonight&no-frame=true&margin-w=12&row=1" />
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## 🤝 Let’s Connect
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohancjj&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohancjj&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohancjj&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
 
-<h2 align="center" style="margin-top:30px;">✨ Premium • Clean • Impactfull ✨</h2>
-<h3 align="center">Building • Learning • Evolving</h3>
+<h2 align="center">
+  🌌 PREMIUM • CLEAN • FUTURE-READY 🌌
+</h2>
+
+<h3 align="center">
+  🚀 Building  |  Learning  |  Evolving
+</h3>
