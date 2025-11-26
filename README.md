@@ -53,13 +53,7 @@
 
 </div>
 
----
 
-## 🏆 Achievements & Branding
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohancjj&theme=tokyonight&no-frame=true&margin-w=12&row=1" />
-</p>
 
 ---
 
