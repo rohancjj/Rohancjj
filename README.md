@@ -49,7 +49,7 @@
 ✅ **WebRTC-based real-time functionality**  
 ✅ **Futuristic, responsive UI/UX**  
 ✅ **Dockerized deployments & CI-ready apps**  
-✅ **MongoDB & MySQL optimized architecture**
+✅ *MongoDB & MySQL optimized architecture*
 
 </div>
 
