@@ -28,7 +28,7 @@
 
 </div>
 
----
+--
 
 ## 🧬 Tech Ecosystem
 
