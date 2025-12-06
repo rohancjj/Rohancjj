@@ -14,7 +14,7 @@
 
 ---
 
-# ✨ About Me
+## ✨ About Me
 
 <div style="backdrop-filter: blur(18px); background: linear-gradient(135deg, rgba(15,23,42,0.4), rgba(255,255,255,0.03)); padding: 25px; border-radius: 22px; border: 1px solid rgba(255,255,255,0.08);">
 
