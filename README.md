@@ -18,7 +18,7 @@
 
 <div style="backdrop-filter: blur(18px); background: linear-gradient(135deg, rgba(15,23,42,0.4), rgba(255,255,255,0.03)); padding: 25px; border-radius: 22px; border: 1px solid rgba(255,255,255,0.08);">
 
-🎓 *Computer Science Engineering Graduate**  
+🎓 **Computer Science Engineering Graduate**  
 💻 Building **high-performance, real-world applications**  
 🌍 Specialized in **Modern Web & Real-Time Systems**  
 🚀 Obsessed with **UI quality, speed & scalability**  
