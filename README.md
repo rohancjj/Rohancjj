@@ -30,7 +30,7 @@
 
 ---
 
-#🧬 Tech Ecosystem
+🧬 Tech Ecosystem
 
 <div align="center" style="backdrop-filter: blur(16px); background: linear-gradient(135deg, rgba(14,165,233,0.05), rgba(124,58,237,0.05)); padding: 30px; border-radius: 24px; border: 1px solid rgba(255,255,255,0.08);">
 
