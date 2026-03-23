@@ -26,7 +26,7 @@
 ```python
 rohan = {
     "role"       : "Data Analyst",
-    "education"  : "B.Tech CSE @ Amity University, Rajasthan (2021–2025)",
+    "education"  : "B.Tech CSE @ Amity University, Rajasthan  (2021–2025)",
     "location"   : "Hyderabad, India 🇮🇳",
     "core_skills": ["SQL", "Python", "Power BI", "Excel", "MongoDB"],
     "strengths"  : ["EDA", "KPI Dashboards", "Data Cleaning", "Business Insights"],
