@@ -1,39 +1,44 @@
 <div align="center">
 
-<h1 style="font-weight:600; letter-spacing:1px;">rohan</h1>
+<h1 style="margin-bottom:5px;">Rohan</h1>
 
-<p style="color:#888;">data analyst · bi developer · ml engineer</p>
+<p style="color:#777; font-size:16px;">
+Data Analyst · BI Developer · ML Engineer
+</p>
 
-<p>
-  <a href="https://linkedin.com">linkedin</a> • 
-  <a href="https://github.com">github</a>
+<p style="font-size:14px;">
+Hyderabad, India · 
+<a href="mailto:rohan2002cjj@gmail.com">Email</a> · 
+<a href="https://linkedin.com">LinkedIn</a> · 
+<a href="https://github.com">GitHub</a>
 </p>
 
 </div>
 
 ---
 
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<div style="flex:1; min-width:250px;">
+<div style="flex:1; min-width:280px; padding:15px; border:1px solid #eee; border-radius:10px;">
 
-<h3>about</h3>
-<p>
-i turn data into insights, dashboards into decisions, and models into real-world impact.  
-focused on analytics, machine learning, and intelligent systems.
+<h3>🧠 About</h3>
+
+<p style="color:#555;">
+Data Analyst focused on turning raw data into meaningful insights.  
+Skilled in SQL, Power BI, Excel, and Python for solving real-world problems.
 </p>
 
 </div>
 
-<div style="flex:1; min-width:250px;">
+<div style="flex:1; min-width:280px; padding:15px; border:1px solid #eee; border-radius:10px;">
 
-<h3>skills</h3>
+<h3>🛠️ Skills</h3>
 
-<pre>
-analytics        mysql · excel · power bi
-python           pandas · numpy · matplotlib · seaborn
-machine learning scikit-learn
-deep learning    ann · cnn · rnn · transformers
+<pre style="background:#fafafa; padding:10px; border-radius:8px;">
+Analytics        MySQL · Excel · Power BI
+Python           Pandas · NumPy · Matplotlib · Seaborn
+Machine Learning Scikit-learn
+Deep Learning    ANN · CNN · RNN · Transformers
 </pre>
 
 </div>
@@ -42,61 +47,85 @@ deep learning    ann · cnn · rnn · transformers
 
 ---
 
-<h3>experience</h3>
+<div style="padding:15px; border:1px solid #eee; border-radius:10px;">
+
+<h3>💼 Experience</h3>
 
 <p>
-<b>data analyst intern</b><br>
-hydizo global private solutions · hyderabad<br>
-<sub>sep — dec 2024</sub>
+<b>Data Analyst Intern</b><br>
+Hydizo Global Private Solutions · Hyderabad<br>
+<sub>Sep – Dec 2024</sub>
 </p>
 
 <ul>
-<li>transformed business data using sql</li>
-<li>built power bi dashboards for kpi tracking</li>
-<li>improved dashboard performance by <b>35%+</b></li>
-<li>automated recurring reports</li>
+<li>Extracted & transformed business data using SQL</li>
+<li>Built Power BI dashboards for KPI tracking</li>
+<li>Improved performance by <b>35%+</b></li>
+<li>Automated recurring reports</li>
 </ul>
 
----
-
-<h3>projects</h3>
-
-<p>
-<b>business health analyzer</b><br>
-<sub>nov — dec 2025</sub><br>
-end-to-end sql + power bi system · kpi scoring · risk classification<br>
-<a href="#">view →</a>
-</p>
-
-<p>
-<b>smart customer segmentation</b><br>
-<sub>sep — nov 2025</sub><br>
-rfm analysis · behavioral segmentation · high-value customers<br>
-<a href="#">view →</a>
-</p>
+</div>
 
 ---
 
-<h3>education</h3>
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<p>
-b.tech computer science — amity university<br>
-<sub>2021 — 2025</sub>
+<div style="flex:1; min-width:280px; padding:15px; border:1px solid #eee; border-radius:10px;">
+
+<h3>🚀 Business Health Analyzer</h3>
+
+<p style="font-size:14px;">
+KPI-based system using SQL & Power BI to classify business risk levels.
 </p>
+
+<a href="#">View Project →</a>
+
+</div>
+
+<div style="flex:1; min-width:280px; padding:15px; border:1px solid #eee; border-radius:10px;">
+
+<h3>🚀 Customer Segmentation</h3>
+
+<p style="font-size:14px;">
+RFM-based segmentation to identify high-value and at-risk customers.
+</p>
+
+<a href="#">View Project →</a>
+
+</div>
+
+</div>
 
 ---
 
-<h3>certifications</h3>
+<div style="padding:15px; border:1px solid #eee; border-radius:10px;">
+
+<h3>🎓 Education</h3>
 
 <p>
-aws cloud practitioner essentials<br>
-microsoft power bi data analyst
+B.Tech Computer Science — Amity University<br>
+<sub>2021 – 2025</sub>
 </p>
+
+</div>
 
 ---
 
-<div align="center">
+<div style="padding:15px; border:1px solid #eee; border-radius:10px;">
 
-<p style="color:#777;">built with data + curiosity</p>
+<h3>🏆 Certifications</h3>
+
+<ul>
+<li>AWS Cloud Practitioner Essentials</li>
+<li>Microsoft Power BI Data Analyst</li>
+</ul>
+
+</div>
+
+---
+
+<div align="center" style="margin-top:20px;">
+
+<p style="color:#888;">simple · clean · aesthetic</p>
 
 </div>
