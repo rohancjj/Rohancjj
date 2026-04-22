@@ -1,50 +1,102 @@
-# rohan
+<div align="center">
 
-data analyst · bi developer · ml engineer  
-hyderabad, india · rohan2002cjj@gmail.com · +91 81071 71472
+<h1 style="font-weight:600; letter-spacing:1px;">rohan</h1>
 
----
+<p style="color:#888;">data analyst · bi developer · ml engineer</p>
 
-**skills**
+<p>
+  <a href="https://linkedin.com">linkedin</a> • 
+  <a href="https://github.com">github</a>
+</p>
 
-```
-analytics      mysql · excel · power bi
-python         pandas · numpy · matplotlib · seaborn
-machine learning   scikit-learn
-deep learning  ann · cnn · rnn · transformers
-```
+</div>
 
 ---
 
-**experience**
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
 
-`sep – dec 2024` &nbsp; **data analyst intern** — hydizo global private solutions, hyderabad  
-extracted & transformed business data with sql · built power bi dashboards for kpi tracking · improved dashboard performance by 35%+ · automated recurring reports
+<div style="flex:1; min-width:250px;">
+
+<h3>about</h3>
+<p>
+i turn data into insights, dashboards into decisions, and models into real-world impact.  
+focused on analytics, machine learning, and intelligent systems.
+</p>
+
+</div>
+
+<div style="flex:1; min-width:250px;">
+
+<h3>skills</h3>
+
+<pre>
+analytics        mysql · excel · power bi
+python           pandas · numpy · matplotlib · seaborn
+machine learning scikit-learn
+deep learning    ann · cnn · rnn · transformers
+</pre>
+
+</div>
+
+</div>
 
 ---
 
-**projects**
+<h3>experience</h3>
 
-`nov – dec 2025` &nbsp; **business health analyzer**  
-end-to-end sql + power bi system · kpi scoring model classifying businesses into risk tiers · eda on revenue, retention & product signals · [view →](#)
+<p>
+<b>data analyst intern</b><br>
+hydizo global private solutions · hyderabad<br>
+<sub>sep — dec 2024</sub>
+</p>
 
-`sep – nov 2025` &nbsp; **smart customer segmentation**  
-rfm feature engineering (recency · frequency · monetary) · behavioral pattern analysis · identified high-value & at-risk segments · [view →](#)
-
----
-
-**education**
-
-`2021 – 2025` &nbsp; b.tech computer science — amity university, rajasthan  
-`2019 – 2020` &nbsp; class xii — st. paul's senior secondary school, sikar
-
----
-
-**certifications**
-
-aws cloud practitioner essentials &nbsp;·&nbsp; microsoft power bi data analyst
+<ul>
+<li>transformed business data using sql</li>
+<li>built power bi dashboards for kpi tracking</li>
+<li>improved dashboard performance by <b>35%+</b></li>
+<li>automated recurring reports</li>
+</ul>
 
 ---
 
-[![linkedin](https://img.shields.io/badge/linkedin-connect-000?style=flat-square&labelColor=000&color=333)](https://linkedin.com)
-[![github](https://img.shields.io/badge/github-follow-000?style=flat-square&labelColor=000&color=333)](https://github.com)
+<h3>projects</h3>
+
+<p>
+<b>business health analyzer</b><br>
+<sub>nov — dec 2025</sub><br>
+end-to-end sql + power bi system · kpi scoring · risk classification<br>
+<a href="#">view →</a>
+</p>
+
+<p>
+<b>smart customer segmentation</b><br>
+<sub>sep — nov 2025</sub><br>
+rfm analysis · behavioral segmentation · high-value customers<br>
+<a href="#">view →</a>
+</p>
+
+---
+
+<h3>education</h3>
+
+<p>
+b.tech computer science — amity university<br>
+<sub>2021 — 2025</sub>
+</p>
+
+---
+
+<h3>certifications</h3>
+
+<p>
+aws cloud practitioner essentials<br>
+microsoft power bi data analyst
+</p>
+
+---
+
+<div align="center">
+
+<p style="color:#777;">built with data + curiosity</p>
+
+</div>
