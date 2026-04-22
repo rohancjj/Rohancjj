@@ -9,8 +9,8 @@ Data Analyst · BI Developer · ML Engineer
 <p style="font-size:14px;">
 Hyderabad, India · 
 <a href="mailto:rohan2002cjj@gmail.com">Email</a> · 
-<a href="https://linkedin.com">LinkedIn</a> · 
-<a href="https://github.com">GitHub</a>
+<a href="https://www.linkedin.com/in/rohanjangir0/">LinkedIn</a> · 
+<a href="https://github.com/rohancjj/">GitHub</a>
 </p>
 
 </div>
