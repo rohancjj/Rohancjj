@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Rohan
+# Rohan
 **Data Analyst | BI Developer | ML Engineer**
 
 <p align="center">
