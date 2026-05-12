@@ -44,7 +44,7 @@ I build end-to-end analytics pipelines — from data extraction to dashboards th
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education & Certification
 * **B.Tech Computer Science** | Amity University (2021 – 2025)
 * **Cloud Practitioner Essentials** | Amazon Web Services
 * **Power BI Data Analyst** | Microsoft
